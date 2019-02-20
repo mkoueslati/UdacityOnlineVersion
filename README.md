@@ -232,5 +232,10 @@ from project import app as application
 ```sh
 ~ $ sudo apache2ctl restart
 ```
-##### 10. Finish
+#### 10. used resources
+* StackOverflow posts
+* Tutorials
+* Slack Channels
+##### 11. Finish
 * try our [IP address](http://18.185.240.165.nip.io) again to test out our application
+
