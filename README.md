@@ -232,7 +232,7 @@ from project import app as application
 ```sh
 ~ $ sudo apache2ctl restart
 ```
-#### 10. used resources
+#### 10. Used resources
 * StackOverflow posts
 * Tutorials
 * Slack Channels
